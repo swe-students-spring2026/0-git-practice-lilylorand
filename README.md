@@ -9,6 +9,6 @@ Lohr’s article discusses how A.I. can change the way coders work in a way that
 ### Laura Liu's Comments:  ###  
 I agree with you that we, as developers, need to learn to work with A.I. rather than face it with fear. While I also find it interesting that the article mentions that working with A.I. is helping lower-income workers to enter the tech industry, the article also raises an important concern about entry-level roles. According to Lohr, junior developers may need to adapt more quickly by building strong fundamentals and learning how to effectively use A.I. tools.
 
-### Comment- George Sanabria ###
+### Comment- George Sanabria
 I too found the article super interesting as it connects back to the real world. I agree with the notion that A.I. is our friend and not enemy however, there should be some boundaries in place. Although A.I simplfies certain functions I think it is vital to emphasize the importance of knowing how it work. If A.I systems were to go down it is key for developers to understand how to find another way which includes using their own knowledge. A blind reliance to A.I can cause detrimental effects and can widen the gap between a developer skills.  
 
