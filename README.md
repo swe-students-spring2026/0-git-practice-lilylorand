@@ -1,4 +1,5 @@
-[A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
-By: Steve Lohr
+## Git Practice Assignment
+
+[A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)  By: Steve Lohr
 
 Lohr's article talks about how A.I. can change the way the coders work, in a not necessarily negative way. As a Computer Science student looking ahead into the industry I found this intersting since it gives a positive way to think ahead. Aditionally, the article confirms the feeling I, and many other Computer Science students, have that we need to learn to work with A.I. in order to be prepared to join the workforce. Another piece of the article I fond intersting was the mention of how some job-training programs such as Per-Scholas are helping lower-income workers to join the tech industry with an emphasis on working with A.I.. 
