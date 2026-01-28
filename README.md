@@ -1,5 +1,5 @@
 
-## [A.I. Is Prompting an Evolution, Not Extinction, for Coders] (https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)  
+## [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)  
 
 By: Steve Lohr
 
