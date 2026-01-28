@@ -1,5 +1,7 @@
 
-## [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)  
+## Git Practice Assignment
+
+This is an article I thought is really interesting: [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)  
 
 By: Steve Lohr
 
